@@ -29,7 +29,7 @@ query{
 ## lot of movies
 ```bash
 query{
-	movies{
+    movies{
     title
     id
     medium_cover_image
