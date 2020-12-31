@@ -26,3 +26,13 @@ query{
   }
 }
 ```
+## lot of movies
+```bash
+query{
+	movies{
+    title
+    id
+    medium_cover_image
+  }
+}
+```
